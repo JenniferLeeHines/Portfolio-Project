@@ -1,2 +1,2 @@
 # Portfolio-Project
-A project for portfolio
+A project for my portfolio
